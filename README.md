@@ -58,11 +58,11 @@ MONGO_URI=mongodb://localhost:27017/crudDB
 
 | Method | Endpoint         | Description        |
 |--------|------------------|--------------------|
-| GET    | `/api/users`     | Get all users      |
-| POST   | `/api/users`     | Create a new user  |
-| GET    | `/api/users/:id` | Get user by ID     |
-| PUT    | `/api/users/:id` | Update user by ID  |
-| DELETE | `/api/users/:id` | Delete user by ID  |
+| GET    | `/api/product`     | Get all products      |
+| POST   | `/api/product`     | Create a new product  |
+| GET    | `/api/product/:id` | Get product by ID     |
+| PUT    | `/api/product/:id` | Update product by ID  |
+| DELETE | `/api/product/:id` | Delete product by ID  |
 
 
 ## 💡 License
