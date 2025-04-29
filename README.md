@@ -3,6 +3,8 @@
 A simple and beginner-friendly RESTful API built with **Node.js**, **Express**, and **MongoDB (Mongoose)**.  
 This project demonstrates basic CRUD operations (Create, Read, Update, Delete) with a clear folder structure and middleware setup.
 
+![mongoDB project](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga7P9XPsZIoDdkrK7TerP5mNnFQMrPIs05CXtcodNvhf-AOZw2PdXn4lj0WIqisEZE6zVhsv1m2r7_D03FEHYuobrqTFV0xULl4Garn0J6RUfK2JeXPYFfJtPPZvjHXviDuoN9XX3fmfDcgzCKvYJjSPfcZb5JzRZIg-UaYH9wRMpRD0uXdSQnBlPjlYi1/s1306/Screenshot%202025-04-29%20at%2014.03.47.png)
+
 ## 🚀 Features
 
 - Create, Read, Update, Delete (CRUD) functionality
@@ -74,3 +76,12 @@ Feel free to reach out or fork this project!
 
 This project was developed with inspiration and guidance from the video by **รอยไถ พัฒนา**.  Watch the original tutorial here:
 https://youtu.be/2O2o44Kzy4o?feature=shared
+
+
+## 📌  How to step-by-step  
+
+![tutorial](https://imgur.com/Cg2IyYp.jpeg)
+
+🎁 installation: MongoDB: https://roadtodev-th.blogspot.com/2025/04/mongodb-installation-macos.html  
+Ep.1 📔 https://roadtodev-th.blogspot.com/2025/04/mern-crud-ep1-server-nodejs-mongodb.html  
+Ep.2 📂 https://roadtodev-th.blogspot.com/2025/04/mern-crud-ep2-model.html  
