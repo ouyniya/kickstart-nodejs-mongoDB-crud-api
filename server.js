@@ -7,6 +7,10 @@ const bodyParse = require('body-parser')
 // auto import routes
 const { readdirSync } = require('fs');
 
+// connect db
+const connectDB = require('./config/db')
+connectDB()
+
 // app use
 app.use(morgan('dev'))
 app.use(cors())
